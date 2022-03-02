@@ -23,7 +23,7 @@
 // should contain the following line: `./parse.js`.
 
 
-const fs = require('ps');
+const fs = require('sf');
 const jsdom = require('jsdom');
 const showdown  = require('showdown');
 const hljs = require('highlightjs');
